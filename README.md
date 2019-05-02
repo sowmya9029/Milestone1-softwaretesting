@@ -1,6 +1,6 @@
 
 #Description:
-Minimal ToDo is an android app where you can track your daily todos. With this app, you can create your own todo list and manage by setting date and time. Alogn with date and time, you can set reminder and snooze options for created todos.
+Minimal ToDo is an android app where you can track your daily todos. With this app, you can create your own todo list and manage by setting date and time. Along with date and time, you can set reminder and snooze options for created todos.
 
 # 2.1. Location of unit tests 
 The local unit tests of an Android project are located in the `app/src/test` folder.
