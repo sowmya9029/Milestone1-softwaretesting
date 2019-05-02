@@ -8,15 +8,15 @@ The local unit tests of an Android project are located in the `app/src/test` fol
 # 2.2. Required dependencies in the Gradle build file
   To use JUnit tests for your Android application, you need to add it as dependency to your Gradle build file.
 
-    dependencies 
-   {
-       // Unit testing dependencies
+      dependencies 
+      {
+         // Unit testing dependencies
          testImplementation 'junit:junit:4.12'
-       // for testing core functionalities of android
+         // for testing core functionalities of android
          testImplementation 'androidx.test:core:1.0.0'
-       //Optional -- Mockito framework
+         // Optional -- Mockito framework
          testImplementation 'org.mockito:mockito-core:2.15.0'
-    }
+      }
 
 
 # 2.3. Running the unit tests
